@@ -1,8 +1,6 @@
 # SenseCon 2022
 
-*Bold IT Admin*
-*A Short Story*
-*by Dick M. Bunn*
+*Bold IT Admin | **A Short Story** | by Dick M. Bunn*
 
 IT Admin John looked at the tiny keys in his hands and felt calm.
 
