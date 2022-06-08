@@ -1,9 +1,8 @@
 # SenseCon 2022
 
-```plain
-Bold IT Admin
+*Bold IT Admin
 A Short Story
-by Dick M. Bunn
+by Dick M. Bunn*
 
 IT Admin John looked at the tiny keys in his hands and felt calm.
 He walked over to the window and reflected on his loud surroundings. He had always hated hot Dark IT room with its unrealistic, unknown umbrellas. It was a place that encouraged his tendency to feel calm.
@@ -23,7 +22,6 @@ crypt0rr looked healthy, his wallet blushing like a plain, purring phone.
 Then crypt0rr came inside for a nice drink of beer and reset his password to "Welcome@SenseCon2022".
 
 THE END
-```
 
 ## Might be helpful?
 
@@ -133,8 +131,3 @@ THE END
 | Yiddish                       | באַגריסן              | password |
 | Yoruba                        | kaabo                | password |
 | Zulu                          | wamukelekile         | password |
-
-
-
-
-WATCH ME REMOVE THIS IN NEXT COMMIT!
